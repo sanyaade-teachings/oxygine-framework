@@ -1,5 +1,5 @@
-# Oxygine is C++ engine for 2d mobile games. 
-One more shell around OpenGL/D3D API you would say? No, this is a set of classes and tools to create a game according to your requirements.
+# Oxygine is C++ engine for 2d mobile games backup. 
+# One more shell around OpenGL/D3D API you would say? No, this is a set of classes and tools to create a game according to your # requirements.
 
 In the basis of the engine there is a scene graph, that is similar to Flash one. To be short, You can call this as Flash for C++, but more comfortable and way faster. Initially it was developed for mobile platforms (iOS, Android), but can be also used for PC games.
 
